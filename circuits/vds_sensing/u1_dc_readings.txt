@@ -1,0 +1,10 @@
+U1 DC test
+Supply: 5 V
+R1 = R3 = 10 kohm
+R2 = R4 = 20 kohm
+Expected gain: 2
+Op-amp model: opamp2
+
+Input 0.04 V -> Output:  0.0800074    V
+Input 0.15 V -> Output:  0.300007     V
+Input 0.30 V -> Output:  0.600006     V

@@ -1,4 +1,4 @@
-﻿Input (V),Expected output (V),LTspice output (V),Actual gain,Error (%)
+﻿Input (V),Expected output (V),LTspice output (V),Actual gain,Error(%)
 0.04,0.08,0.0800074,2.000185,0.009250000000005781
 0.15,0.3,0.300007,2.000046666666667,0.002333333333344919
 0.3,0.6,0.600006,2.00002,0.001000000000010252

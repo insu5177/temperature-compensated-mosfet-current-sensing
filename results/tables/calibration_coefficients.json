@@ -1,7 +1,17 @@
 {
     "reference_condition": {
-        "Current (A)": 50,
-        "Temperature (C)": 25
+        "I_true_A": 50,
+        "Tc_C": 25,
+        "Ts_condition": "Ts=Tj",
+        "Ts_C": 26.57775219112
+    },
+    "reference_outputs": {
+        "V_pre_V": 0.150269,
+        "V_final_V": 0.14007
+    },
+    "raw_conversion": {
+        "R_ref_ohm": 0.00149,
+        "gain": 2.0
     },
     "K_C (Calibration Coefficient)": 1.0637538373670308
 }

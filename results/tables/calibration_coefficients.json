@@ -1,0 +1,7 @@
+{
+    "reference_condition": {
+        "Current (A)": 50,
+        "Temperature (C)": 25
+    },
+    "K_C (Calibration Coefficient)": 1.0637538373670308
+}
